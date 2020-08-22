@@ -26,14 +26,14 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="width" secondItem="7V1-hR-7mq" secondAttribute="width" id="H6i-gn-UGl"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="zBZ-oD-RfA" secondAttribute="bottom" constant="20" id="J56-Vh-bXP"/>
-                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="height" secondItem="7V1-hR-7mq" secondAttribute="height" id="O02-lH-oxF"/>
-                            <constraint firstItem="7V1-hR-7mq" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="Rip-7z-6oK"/>
-                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="top" secondItem="7V1-hR-7mq" secondAttribute="bottom" constant="36" id="S6B-8X-iqD"/>
-                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="leading" secondItem="7V1-hR-7mq" secondAttribute="leading" id="eEf-7n-7ae"/>
-                            <constraint firstItem="7V1-hR-7mq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="35" id="gIc-Wg-kM9"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="7V1-hR-7mq" secondAttribute="trailing" constant="35" id="z2R-t0-FQq"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="zBZ-oD-RfA" secondAttribute="trailing" constant="35" id="9ef-d5-HBT"/>
+                            <constraint firstItem="7V1-hR-7mq" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="BE8-Km-LbP"/>
+                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="top" secondItem="7V1-hR-7mq" secondAttribute="bottom" constant="36" id="PUC-5a-Uiv"/>
+                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="35" id="UpD-G3-FYr"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="zBZ-oD-RfA" secondAttribute="bottom" constant="20" id="YjO-Ee-q9w"/>
+                            <constraint firstItem="zBZ-oD-RfA" firstAttribute="height" secondItem="7V1-hR-7mq" secondAttribute="height" id="apH-kc-ZKZ"/>
+                            <constraint firstItem="7V1-hR-7mq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="35" id="fsf-zl-nUj"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="7V1-hR-7mq" secondAttribute="trailing" constant="35" id="yuB-ZX-xAn"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
